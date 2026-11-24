@@ -22,6 +22,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 engine:
   id: copilot
   copilot-sdk: true
@@ -34,6 +35,7 @@ drafting any changes. Use web-fetch to read:
 
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
 Update only `site/content/github-info.md` with concise, practical guidance for
 developers. Include clear source context for updates based on the GitHub Blog
